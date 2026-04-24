@@ -215,6 +215,8 @@ Coverage generated using Jest:
 
 Coverage focuses on **business logic**, not framework boilerplate (controllers/modules).
 
+![Coverage](image.png)
+
 ---
 
 # 🧪 Validation Evidence
