@@ -27,7 +27,7 @@ import { SyncModule } from './sync/sync.module';
         Balance,
         TimeOffRequest,
       ],
-      synchronize: true, // DO NOT use in production
+      synchronize: true,
       logging: false,
     }),
     HcmMockModule,
